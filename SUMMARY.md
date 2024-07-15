@@ -1,3 +1,4 @@
 # Table of contents
 
-* [PyMouse](README.md)
+* [🤖 PyMouse](README.md)
+  * [📖 Documentation](pymouse/documentation.md)
