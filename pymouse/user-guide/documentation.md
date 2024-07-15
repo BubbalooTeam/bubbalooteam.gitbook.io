@@ -1,9 +1,29 @@
 # 📖 Documentation
 
-_<mark style="color:green;">Let's learn how to use this wonderful bot (PyMouse), with this simple and easy documentation, first let's understand the purpose of this bot (PyMouse).</mark>_
+## **Welcome to PyMouse Documentation!**
 
-<mark style="color:yellow;">PyMouse was created and written in Python in conjunction with the Hydrogram and HydroKeyboard libraries, Hydrogram represents the Telegram Client while HydroKeyboard creates the buttons, but then why was this bot created?</mark>
+PyMouse is a bot developed in [<mark style="color:yellow;">**Python**</mark>](https://www.python.org/) by BubbalooTeam, with the collaboration of the [<mark style="color:purple;">**Hydrogram**</mark>](https://hydrogram.org) and [<mark style="color:orange;">**HydroKeyboard**</mark>](https://github.com/DaviisDev/HydroKeyboard/blob/master/README.md#hydrokeyboard) libraries. These libraries play essential roles:
 
-<mark style="color:yellow;">This bot was created with the purpose of being very fast in terms of responding to its functions, in addition to being easy and fun to use its functions.</mark>
+1. **Hydrogram:** _Represents the Telegram client, allowing PyMouse to communicate with users._
+2. **HydroKeyboard:** _Creates interactive buttons for a user-friendly experience._
 
-<mark style="color:yellow;">Its functions were designed from different angles, such as Utilities in everyday life, Utilities in the technological world, among others...</mark>
+## Purpose of PyMouse&#x20;
+
+PyMouse was created with three goals:
+
+1. **Speed ​​of Responses:** _We want PyMouse to be agile, like a smart mouse._
+2. **Ease of Use:** _We have simplified the features so that anyone can enjoy them._
+3. **Fun:** _In addition to being useful, PyMouse also brings a smile to users' faces. 🎉_
+
+## Functionalities&#x20;
+
+PyMouse can:
+
+* **Day-to-day assistance:** _Weather forecast, jokes, among others._
+* **Be your Technological Assistant:** _Help with the specifications of devices such as cell phones, tablets, smartwatches, with others._
+
+## Conclusion&#x20;
+
+Now you know PyMouse! If you have questions or suggestions, I'm here to help, just go to [Github Discussions](https://github.com/BubbalooTeam/PyMouse/discussions). And remember: PyMouse is always ready to chase your commands! 🏃‍♂️💨
+
+If you need more details about a specific feature, just ask there! 😊
