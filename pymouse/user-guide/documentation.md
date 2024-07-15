@@ -1,7 +1,5 @@
 # 📖 Documentation
 
-## Welcome to PyMouse Documentation!
-
 _<mark style="color:green;">Let's learn how to use this wonderful bot (PyMouse), with this simple and easy documentation, first let's understand the purpose of this bot (PyMouse).</mark>_
 
 <mark style="color:yellow;">PyMouse was created and written in Python in conjunction with the Hydrogram and HydroKeyboard libraries, Hydrogram represents the Telegram Client while HydroKeyboard creates the buttons, but then why was this bot created?</mark>

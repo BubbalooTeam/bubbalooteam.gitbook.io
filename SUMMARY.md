@@ -1,4 +1,5 @@
 # Table of contents
 
 * [🤖 PyMouse](README.md)
-  * [📖 Documentation](pymouse/documentation.md)
+  * [👮 User Guide](pymouse/user-guide/README.md)
+    * [📖 Documentation](pymouse/user-guide/documentation.md)
