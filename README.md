@@ -1,10 +1,8 @@
 # 🤖 PyMouse
 
-🌟 _<mark style="color:yellow;">I, PyMouse is a Telegram bot with fun functions for you and your chats, come and meet me.</mark>_ 🌟
+🌟 <mark style="color:yellow;">**Meet**</mark>[ <mark style="color:yellow;">**PyMouse**</mark>](https://t.me/PyMouseBOT)<mark style="color:yellow;">**: Your Useful Bot on Telegram!**</mark> 🌟
 
+_Ready to boost your conversations and make your daily tasks easier? Look for_ [_PyMouse_](https://t.me/PyMouseBOT)_, it's here to help! As a versatile bot on Telegram,_ [_PyMouse_](https://t.me/PyMouseBOT) _offers a variety of useful features that can enhance your experience._ [_PyMouse_](https://t.me/PyMouseBOT) _has everything you need._
 
-
-## Introducing:
-
-This documentation is a perfect guide for you who want to learn more about PyMouse. Here you can learn many things about the functions of this wonderful bot, let's learn step by step how to use it?
+**What are you waiting for?? Get to know me here, and make use of my functions on my** [**Telegram profile**](https://t.me/PyMouseBOT)**.**
 
