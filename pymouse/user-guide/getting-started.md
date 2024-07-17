@@ -11,8 +11,8 @@ To start using PyMouse, first add the bot to your group, and give me administrat
 _To add PyMouse to your groups do the following steps._
 
 1. Open your Telegram client.
-2. Click on the search field and search for the user `@PyMouseBOT`
-3. Open the bot's profile and click **"Add the bot to a group or channel"**
+2. Click on the search field and search for the user `@PyMouseBOT`.
+3. Open the bot's profile and click **"Add the bot to a group or channel".**
 
 {% hint style="danger" %}
 <mark style="color:red;">Attention:</mark>
@@ -28,4 +28,15 @@ _To add PyMouse to your groups do the following steps._
 <mark style="color:blue;">You can also</mark> [<mark style="color:yellow;">click here</mark>](https://t.me/PyMouseBOT?startgroup=true) <mark style="color:blue;">to add PyMouse to your group.</mark>
 {% endhint %}
 
-Continue here...
+
+
+## Giving Administrator permissions (Optional)
+
+_While PyMouse does not obtain administrator permissions, it will not be able to perform some tasks due to Telegram limitations, but in the vast majority of its functions it will not require administrative means._
+
+1. Open your chat settings and click on **"Administrators"**.
+2. Then click on **"Add Administrator"** or **"Add Admin".**
+3. Now search for <mark style="color:yellow;">`@PyMouseBOT`</mark>.
+4. Click on **PyMouse's** profile after finding it.
+5. With the **permissions switches**, choose the **permissions** that will be given.
+6. Scroll down and at the end of the screen, there will be a **blue button written confirm**, click on it
