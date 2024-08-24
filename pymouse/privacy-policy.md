@@ -7,7 +7,7 @@ icon: lock
 **Information that PyMouse collects:**
 
 * _<mark style="color:blue;">**Basic user information:**</mark> User ID, first name, last name, language and username._
-* _<mark style="color:blue;">**Basic group information:**</mark>_ _ChatID, chat title, username and chat type._
+* _<mark style="color:blue;">**Basic group information:**</mark>_ _Chat ID, chat title, username and chat type._
 * _<mark style="color:blue;">**BOT settings:**</mark>_ _Things like your chat language with the bot and any other settings will be collected._
 
 **How and why is this information collected?**
