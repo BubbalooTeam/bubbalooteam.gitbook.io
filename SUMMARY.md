@@ -5,3 +5,5 @@
     * [Documentation](pymouse/user-guide/documentation.md)
     * [Getting Started](pymouse/user-guide/getting-started.md)
   * [Privacy Policy](pymouse/privacy-policy.md)
+  * [Help](pymouse/help/README.md)
+    * [Modules](pymouse/help/modules.md)
