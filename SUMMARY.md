@@ -6,4 +6,5 @@
     * [Getting Started](pymouse/user-guide/getting-started.md)
   * [Privacy Policy](pymouse/privacy-policy.md)
   * [Help](pymouse/help/README.md)
-    * [Modules](pymouse/help/modules.md)
+    * [Modules](pymouse/help/modules/README.md)
+      * [AFK](pymouse/help/modules/afk.md)
