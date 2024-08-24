@@ -8,3 +8,10 @@ icon: question
 
 
 
+## Basic commands
+
+#### Below is a list of basic available commands present in PyMouse:
+
+* `/start`: It starts the bot or checks if it's alive.
+* `/help`: I'll tell you more about of myself.
+* `/privacy`: I'll send my privacy policy.

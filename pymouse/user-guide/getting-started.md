@@ -19,7 +19,7 @@ _To add PyMouse to your groups do the following steps._
 3. Open the bot's profile and click **"Add the bot to a group or channel".**
 
 {% hint style="danger" %}
-<mark style="color:red;">Attention:</mark>
+<mark style="color:red;">**Attention:**</mark>
 
 <mark style="color:red;">During the second step, you may come across bots with similar names and usernames. Add the bot with the username</mark> <mark style="color:yellow;">`@PyMouseBot`</mark><mark style="color:red;">, as other bots are impostors.</mark>
 {% endhint %}
@@ -27,7 +27,7 @@ _To add PyMouse to your groups do the following steps._
 
 
 {% hint style="info" %}
-<mark style="color:blue;">See Also:</mark>
+<mark style="color:blue;">**See Also:**</mark>
 
 <mark style="color:blue;">You can also</mark> [<mark style="color:yellow;">click here</mark>](https://t.me/PyMouseBOT?startgroup=true) <mark style="color:blue;">to add PyMouse to your group.</mark>
 {% endhint %}

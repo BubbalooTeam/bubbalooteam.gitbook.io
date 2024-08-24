@@ -15,5 +15,7 @@ icon: lock
 _This information can be captured by decorators, 'little pieces tools' with which you interact with the bot and it can save this basic information, whether it's a direct message or not. In this case, this information may be collected to improve the experience and functionality of the service provided by the bot._
 
 {% hint style="info" %}
-Note: All the information collected is public and available for use on Telegram, but we don't know your 'REAL' identity.
+**Note:**&#x20;
+
+All the information collected is public and available for use on Telegram, but we don't know your 'REAL' identity.
 {% endhint %}
