@@ -1,5 +1,8 @@
 ---
 icon: lock
+description: >-
+  Here is my privacy policy, you can read it, find out what is collected and why
+  it is collected.
 ---
 
 # Privacy Policy

@@ -1,5 +1,6 @@
 ---
 icon: book-open
+description: 'Below we will talk all about PyMouse:'
 ---
 
 # Documentation

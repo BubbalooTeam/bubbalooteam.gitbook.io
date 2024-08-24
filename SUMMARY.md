@@ -8,3 +8,5 @@
   * [Help](pymouse/help/README.md)
     * [Modules](pymouse/help/modules/README.md)
       * [AFK](pymouse/help/modules/afk.md)
+      * [Miscellaneous](pymouse/help/modules/miscellaneous/README.md)
+        * [Weather](pymouse/help/modules/miscellaneous/weather.md)

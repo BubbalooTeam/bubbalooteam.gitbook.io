@@ -2,11 +2,12 @@
 description: >-
   An acronym AFK stands for "Away from Keyboard," often used to say you're
   absent.
+icon: keyboard-down
 ---
 
 # AFK
 
-## Commands:
+## Commands
 
 #### All commands present in the AFK module are below.
 

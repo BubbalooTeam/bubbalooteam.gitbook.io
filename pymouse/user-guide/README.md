@@ -1,5 +1,6 @@
 ---
 icon: user-magnifying-glass
+description: Below is how you should proceed in the user guide.
 ---
 
 # User Guide

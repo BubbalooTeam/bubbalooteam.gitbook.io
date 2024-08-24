@@ -1,5 +1,6 @@
 ---
 icon: table-list
+description: Here you can see all the modules available for use.
 ---
 
 # Modules
@@ -25,3 +26,4 @@ Types of Arguments:
 #### Below is a list of all available modules in PyMouse:
 
 * [AFK (Away From Keyboard)](afk.md): Sets you as AFK, and notifies users who mention them.
+* [Miscellaneous](miscellaneous/): You’ll find a variety of modules that you’re sure to enjoy.

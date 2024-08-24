@@ -1,5 +1,8 @@
 ---
 icon: question
+description: >-
+  Here you have instructions on how to proceed to get to know all my modules and
+  receive brief help on the basic commands.
 ---
 
 # Help

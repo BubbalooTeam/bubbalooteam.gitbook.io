@@ -1,5 +1,8 @@
 ---
 icon: gear
+description: >-
+  Thank you for joining us! PyMouse on Telegram offers a range of features to
+  enhance your experience. Enjoy exploring!
 ---
 
 # Getting Started
