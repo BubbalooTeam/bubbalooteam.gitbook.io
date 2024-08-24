@@ -8,7 +8,7 @@ description: >-
 
 ## Commands:
 
-* /afk (?reason): Mark yourself as AFK (Away from Keyboard), you can add a reason for your absence by filling in the argument _`(?reason)`_ with the reason. For example: `/afk sleeping...`
+* `/afk (?reason)`: Mark yourself as AFK (Away from Keyboard), you can add a reason for your absence by filling in the argument _`(?reason)`_ with the reason. For example: `/afk sleeping...`
 
 {% hint style="info" %}
 **Note:**
