@@ -1,4 +1,8 @@
-# 📖 Documentation
+---
+icon: book-open
+---
+
+# Documentation
 
 ## **Welcome to PyMouse Documentation!**
 

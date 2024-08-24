@@ -1,4 +1,8 @@
-# ⚙️ Getting Started
+---
+icon: gear
+---
+
+# Getting Started
 
 To start using PyMouse, first add the bot to your group, and give me administrator privileges so i can start working.
 

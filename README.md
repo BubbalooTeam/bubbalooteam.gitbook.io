@@ -1,4 +1,8 @@
-# 🤖 PyMouse
+---
+icon: user-robot
+---
+
+# PyMouse
 
 🌟 <mark style="color:yellow;">**Meet**</mark>[ <mark style="color:yellow;">**PyMouse**</mark>](https://t.me/PyMouseBOT)<mark style="color:yellow;">**: Your Useful Bot on Telegram!**</mark> 🌟
 
