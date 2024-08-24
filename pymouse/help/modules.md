@@ -15,7 +15,5 @@ Types of Arguments:
 
 () - Required argument.
 
-(city) - Required city, state or country.
-
 (? ) - Optional Argument.
 {% endhint %}
