@@ -1,6 +1,6 @@
 ---
-description: Here you can download audio/video tracks from YouTube quickly and easily.
 icon: youtube
+description: Here you can download audio/video tracks from YouTube quickly and easily.
 ---
 
 # YouTube Downloader
@@ -9,7 +9,7 @@ icon: youtube
 
 #### All commands present in the YouTube Downloader(YTDL) module are below.
 
-* `/ytdl (title)`:  Downloads an audio/video track from YouTube based on the parameter/argument (title) filled with video title, channel name or YouTube video URL. Some examples:&#x20;
+* `/ytdl (title)`:  Downloads an audio/video track from YouTube based on the parameter/argument `(title)` filled with video title, channel name or YouTube video URL. Some examples:&#x20;
   * `/ytdl NCS - Elektronomia`
   * `/ytdl` [`https://youtu.be/TW9d8vYrVFQ?si=xPGUh48-1HNKo_YD`](https://youtu.be/TW9d8vYrVFQ?si=xPGUh48-1HNKo\_YD)
   * `/ytdl NoCopyrightSounds`
