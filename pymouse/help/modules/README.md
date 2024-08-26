@@ -27,3 +27,4 @@ Types of Arguments:
 
 * [AFK (Away From Keyboard)](afk.md): Sets you as AFK, and notifies users who mention them.
 * [Miscellaneous](miscellaneous/): You’ll find a variety of modules that you’re sure to enjoy.
+* [Medias](medias/): Variety of modules related to Audio/Video, both for download and upload.
