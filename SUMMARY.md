@@ -10,5 +10,6 @@
       * [AFK](pymouse/help/modules/afk.md)
       * [Miscellaneous](pymouse/help/modules/miscellaneous/README.md)
         * [Weather](pymouse/help/modules/miscellaneous/weather.md)
+        * [GSMarena](pymouse/help/modules/miscellaneous/gsmarena.md)
       * [Medias](pymouse/help/modules/medias/README.md)
         * [YouTube Downloader](pymouse/help/modules/medias/youtube-downloader.md)
