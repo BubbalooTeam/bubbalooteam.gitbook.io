@@ -1,8 +1,8 @@
 ---
+icon: watch-apple
 description: >-
   Here you can use the tool that gets specifications from various devices,
   especially from global field quickly and easily.
-icon: watch-apple
 ---
 
 # GSMarena
@@ -15,6 +15,6 @@ icon: watch-apple
 
 
 
-## Returns
+## GSMarena Returns
 
 <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>This is a specifications of "Nokia 3310 &#x3C;2017>"</p></figcaption></figure>

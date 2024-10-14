@@ -13,3 +13,5 @@
         * [GSMarena](pymouse/help/modules/miscellaneous/gsmarena.md)
       * [Medias](pymouse/help/modules/medias/README.md)
         * [YouTube Downloader](pymouse/help/modules/medias/youtube-downloader.md)
+      * [Animals](pymouse/help/modules/animals/README.md)
+        * [Cats](pymouse/help/modules/animals/cats.md)
